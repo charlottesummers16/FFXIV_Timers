@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Wheel Timer</string>
+
+    <!--  Generic Buttons  -->
+    <string name="button_now">Now</string>
+    <string name="button_save">Save</string>
+    <string name="clear_saved_data">Clear saved data</string>
+    <string name="cancel">Cancel</string>
+
+    <!--  Tabs  -->
+    <string name="ffxiv_title">FFXIV Timers</string>
+    <string name="wheel_tab">Wheel</string>
+    <string name="garden_tab">Gardens</string>
+    <string name="pots_tab">Pots</string>
+    <string name="select_tab_placeholder">Select a tab</string>
+
+    <!--  Wheel Labels  -->
+    <string name="wheel_type">Wheel type:</string>
+    <string name="finish_time">Finish time:</string>
+    <string name="finish_date">Finish date:</string>
+    <string name="time_remaining">Time remaining:</string>
+    <string name="no_data">No wheel running</string>
+
+    <!--  Dialog Box  -->
+    <string name="alert_title">Clear Data</string>
+    <string name="alert_message">Clear current wheel data?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!--  Time Remaining Labels  -->
+    <string name="day">day</string>
+    <string name="days">days</string>
+    <string name="hour">hour</string>
+    <string name="hours">hours</string>
+    <string name="minute">minute</string>
+    <string name="minutes">minutes</string>
+    <string name="second">second</string>
+    <string name="seconds">seconds</string>
+    <string name="na">N/A</string>
+
+    <!--  Plant Details Popup  -->
+    <string name="hours_remaining">hours remaining</string>
+    <string name="fertilise">Fertilise</string>
+
+    <!--  Garden Patches  -->
+    <string name="patch_content_description">Green square.</string>
+    
+    <!--  Plants  -->
+    <string name="old_world_fig">Old World Fig</string>
+    <string name="royal_kukuru">Royal Kukuru</string>
+    <string name="thavnairian_onion">Thavanaitian Onion</string>
+
+</resources>
